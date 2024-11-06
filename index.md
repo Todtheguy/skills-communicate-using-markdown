@@ -6,3 +6,7 @@ Added "Stuff" Title. That's about it.
 ```
 var num=420;
 ```
+# To Do #
+- [ ] Sell Socks
+- [ ] ???
+- [ ] Profit
